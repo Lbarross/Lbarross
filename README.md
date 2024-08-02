@@ -5,7 +5,7 @@
 <div>
  <p>Futura engenheira de Software </p>
 <p>
-  Atualmente estudante da escola Senai "Paulo Antônio Skaf", cursando o Técnico de Multimídia
+  Atualmente estudante da escola Senai "Paulo Antônio Skaf", cursando o Técnico de Multimídia e da escola SENAI "Armando de Arruda Pereira", cursando o Técnico de Automação Industrial
 
 </p>
 </div>
